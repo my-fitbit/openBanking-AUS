@@ -1,0 +1,14 @@
+{
+        "products": [
+            {
+                "productId": "4bacdad3-d6f4-4c99-a50b-690a46bd9a23",
+                "name": "Fixed Rate Loan",
+                "description": "Fixed interest rate home loans for terms of one to five years."
+            },
+            {
+                "productId": "b7bb9da4-3913-484c-8d2d-3fc99b9b4a72",
+                "name": "Savings Maximiser",
+                "description": "High variable interest rate. And no fees or penalties on withdrawals."
+            }
+         ]
+}
