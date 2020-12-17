@@ -35,30 +35,6 @@
             {
                 "name": "Orange Advantage",
                 "description": "Includes a 100% interest offset when linked to our Orange Everyday bank account."
-            },
-            {
-                "name": "Orange Everyday",
-                "description": "An everyday transaction account with no monthly fees."
-            },
-            {
-                "name": "Orange Everyday Youth",
-                "description": "An everyday transaction account helping teens aged 15 to 17 to start out right."
-            },
-            {
-                "name": "ING Personal Loan",
-                "description": "Unsecured personal loan with a low fixed rate, no ongoing monthly fees and no early repayment fees."
-            },
-            {
-                "name": "Orange One",
-                "description": "The credit card that gives you a low interest rate, no annual fee, plus no ING international transaction fees for eligible customers when you shop overseas or online."
-            },
-            {
-                "name": "Orange One Platinum",
-                "description": "The credit card that comes with up to $30 a month cashback on your spend, and no ING international transaction fees for eligible customers when you shop overseas or online."
-            },
-            {
-                "name": "Wholesale Term Deposit",
-                "description": "Competitive interest rates for a fixed period for Government, Public Company, Charity, Association or Religious Organisations."
             }
         ]
     }
