@@ -1,8 +1,8 @@
 {
         "products": [
             {  
-                 "name": "Info : My ING AU",
-                 "description": "The app displays list of products provided by ING Bank (Australia). All details are fetched from public `Products` data provided by the bank.\n\nSearch `Open Banking` or CDS by Gov. of Australia.\n\nEnjoy the Product details on your wrist (fitbit) !"
+                 "title": "Info : My ING AU",
+                 "extract": "The app displays list of products provided by ING Bank (Australia). All details are fetched from public `Products` data provided by the bank.\n\nSearch `Open Banking` or CDS by Gov. of Australia.\n\nEnjoy the Product details on your wrist (fitbit) !"
             },
             {
                 "name": "Fixed Rate Loan",
