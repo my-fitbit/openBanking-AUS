@@ -5,72 +5,58 @@
                  "description": "The app displays list of products provided by ING Bank (Australia). All details are fetched from public `Products` data provided by the bank.\n\nSearch `Open Banking` or CDS by Gov. of Australia.\n\nEnjoy the Product details on your wrist (fitbit) !"
             },
             {
-                "productCategory": "RESIDENTIAL_MORTGAGES",
                 "name": "Fixed Rate Loan",
                 "description": "Fixed interest rate home loans for terms of one to five years."
             },
             {
-                "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
                 "name": "Savings Maximiser",
                 "description": "High variable interest rate. And no fees or penalties on withdrawals."
             },
             {
-                "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
                 "name": "Savings Accelerator",
                 "description": "A tiered savings account, with a high variable interest rate."
             },
             {
-                "productCategory": "TERM_DEPOSITS",
                 "name": "Personal Term Deposits",
                 "description": "A high interest rate guaranteed for the term. You choose the timeframe."
             },
             {
-                "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
                 "name": "Business Optimiser",
                 "description": "A high variable interest business savings account with 24/7 access."
             },
             {
-                "productCategory": "TERM_DEPOSITS",
                 "name": "Business Term Deposit",
                 "description": "A high fixed interest rate for business savings. You choose the time frame."
             },
             {
-                "productCategory": "RESIDENTIAL_MORTGAGES",
                 "name": "Mortgage Simplifier",
                 "description": "Low variable interest rate home loan with no ongoing monthly or annual fees."
             },
             {
-                "productCategory": "RESIDENTIAL_MORTGAGES",
                 "name": "Orange Advantage",
                 "description": "Includes a 100% interest offset when linked to our Orange Everyday bank account."
             },
             {
-                "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
                 "name": "Orange Everyday",
                 "description": "An everyday transaction account with no monthly fees."
             },
             {
-                "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
                 "name": "Orange Everyday Youth",
                 "description": "An everyday transaction account helping teens aged 15 to 17 to start out right."
             },
             {
-                "productCategory": "PERS_LOANS",
                 "name": "ING Personal Loan",
                 "description": "Unsecured personal loan with a low fixed rate, no ongoing monthly fees and no early repayment fees."
             },
             {
-                "productCategory": "CRED_AND_CHRG_CARDS",
                 "name": "Orange One",
                 "description": "The credit card that gives you a low interest rate, no annual fee, plus no ING international transaction fees for eligible customers when you shop overseas or online."
             },
             {
-                "productCategory": "CRED_AND_CHRG_CARDS",
                 "name": "Orange One Platinum",
                 "description": "The credit card that comes with up to $30 a month cashback on your spend, and no ING international transaction fees for eligible customers when you shop overseas or online."
             },
             {
-                "productCategory": "TERM_DEPOSITS",
                 "name": "Wholesale Term Deposit",
                 "description": "Competitive interest rates for a fixed period for Government, Public Company, Charity, Association or Religious Organisations."
             }
